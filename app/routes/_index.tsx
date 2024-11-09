@@ -1,5 +1,5 @@
-import type { MetaFunction } from "react-router";
-import { Welcome } from "../welcome";
+import { Welcome } from "components/welcome";
+import { MetaFunction } from "react-router";
 
 export const meta: MetaFunction = () => {
   return [
