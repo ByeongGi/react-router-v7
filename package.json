@@ -11,8 +11,10 @@
     "typegen:watch": "react-router typegen --watch"
   },
   "dependencies": {
+    "@react-router/fs-routes": "7.0.0-pre.5",
     "@react-router/node": "7.0.0-pre.5",
     "@react-router/serve": "7.0.0-pre.5",
+    "@types/node": "^22.9.0",
     "isbot": "^5.1.17",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
